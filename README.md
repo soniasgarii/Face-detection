@@ -1,2 +1,17 @@
-# Face-detection
-A Computer Vision project for face detection and recognition using Artificial Intelligence techniques.
+# Face Recognition System
+
+## Overview
+A Computer Vision project developed to detect and recognize faces from images.
+
+## Features
+- Face detection
+- Face recognition
+- Image processing
+
+## Technologies
+- Python
+- OpenCV
+- Computer Vision
+
+## Status
+Personal AI learning project.
